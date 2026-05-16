@@ -1,0 +1,6 @@
+2026-05-16 13:04:34,055 - DEBUG - [1570290910.py:40 - debug()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Отладочное сообщение
+2026-05-16 13:04:34,056 - INFO - [1570290910.py:44 - info()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Информационное сообщение
+2026-05-16 13:04:34,072 - ERROR - [1570290910.py:48 - error()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Ошибка!
+2026-05-16 13:04:47,764 - DEBUG - [1570290910.py:40 - debug()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Отладочное сообщение
+2026-05-16 13:04:47,774 - INFO - [1570290910.py:44 - info()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Информационное сообщение
+2026-05-16 13:04:47,783 - ERROR - [1570290910.py:48 - error()] - [C:\Users\Lenovo\AppData\Local\Temp\ipykernel_15192\760280786.py:11 <module>()] Ошибка!
