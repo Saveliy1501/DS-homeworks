@@ -8,3 +8,5 @@ Concrete_Data.xls
 Dry_Bean_Dataset.csv
 hour.csv
 day.csv
+lessons/bank-additional-full.csv
+catboost_training.json
