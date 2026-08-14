@@ -11,3 +11,5 @@ day.csv
 lessons/bank-additional-full.csv
 catboost_training.json
 lessons/Wholesale customers data.csv
+lessons/ratings_small.csv
+lessons/movies_metadata.csv
