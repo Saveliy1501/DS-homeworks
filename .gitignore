@@ -13,3 +13,7 @@ catboost_training.json
 lessons/Wholesale customers data.csv
 lessons/ratings_small.csv
 lessons/movies_metadata.csv
+lessons/tags.csv
+lessons/ratings.csv
+lessons/books.csv
+lessons/book_tags.csv
