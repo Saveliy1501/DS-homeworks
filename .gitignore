@@ -17,3 +17,5 @@ lessons/tags.csv
 lessons/ratings.csv
 lessons/books.csv
 lessons/book_tags.csv
+lessons/best_model.pth
+lessons/diamonds.csv
