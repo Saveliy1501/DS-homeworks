@@ -19,3 +19,12 @@ lessons/books.csv
 lessons/book_tags.csv
 lessons/best_model.pth
 lessons/diamonds.csv
+lessons/mnist_mlp_tf.keras
+lessons/data/MNIST/raw/t10k-images-idx3-ubyte
+lessons/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+lessons/data/MNIST/raw/t10k-labels-idx1-ubyte
+lessons/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+lessons/data/MNIST/raw/train-images-idx3-ubyte
+lessons/data/MNIST/raw/train-images-idx3-ubyte.gz
+lessons/data/MNIST/raw/train-labels-idx1-ubyte
+lessons/data/MNIST/raw/train-labels-idx1-ubyte.gz
