@@ -28,3 +28,13 @@ lessons/data/MNIST/raw/train-images-idx3-ubyte
 lessons/data/MNIST/raw/train-images-idx3-ubyte.gz
 lessons/data/MNIST/raw/train-labels-idx1-ubyte
 lessons/data/MNIST/raw/train-labels-idx1-ubyte.gz
+lessons/fashion5_model.pt
+lessons/mnist_mlp.pt
+lessons/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+lessons/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+lessons/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+lessons/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+lessons/data/FashionMNIST/raw/train-images-idx3-ubyte
+lessons/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+lessons/data/FashionMNIST/raw/train-labels-idx1-ubyte
+lessons/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
