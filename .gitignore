@@ -38,3 +38,5 @@ lessons/data/FashionMNIST/raw/train-images-idx3-ubyte
 lessons/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 lessons/data/FashionMNIST/raw/train-labels-idx1-ubyte
 lessons/data/
+lessons/model_before_robust_ft.pth
+lessons/model_robust_finetuned.pth
