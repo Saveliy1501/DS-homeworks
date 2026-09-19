@@ -40,3 +40,11 @@ lessons/data/FashionMNIST/raw/train-labels-idx1-ubyte
 lessons/data/
 lessons/model_before_robust_ft.pth
 lessons/model_robust_finetuned.pth
+lessons/models/b0_best.pth
+lessons/models/b0_last.pth
+lessons/models/b1_best.pth
+lessons/models/b1_last.pth
+lessons/models/b2_best.pth
+lessons/models/b2_last.pth
+lessons/models/b3_best.pth
+lessons/models/b3_last.pth
