@@ -6,7 +6,7 @@ payment_data.csv
 customer_data.csv
 Concrete_Data.xls
 Dry_Bean_Dataset.csv
-hour.csv
+hour.csv 
 day.csv
 lessons/bank-additional-full.csv
 catboost_training.json
@@ -78,3 +78,5 @@ lessons/petting.jpg
 lessons/petting2.jpg
 lessons/yolov8n-seg.pt
 lessons/TS (1) (1).csv
+lessons/DailyDelhiClimateTest.csv
+lessons/DailyDelhiClimateTrain.csv
