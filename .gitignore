@@ -80,3 +80,7 @@ lessons/yolov8n-seg.pt
 lessons/TS (1) (1).csv
 lessons/DailyDelhiClimateTest.csv
 lessons/DailyDelhiClimateTrain.csv
+homeworks/crypta/btcusd_1-min_data.csv
+homeworks/crypta/ethereum-historical-data.csv
+homeworks/crypta/solana-historical-data (4).csv
+homeworks/crypta/tether-historical-data (2).csv
