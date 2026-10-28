@@ -93,3 +93,6 @@ lessons/product_emb_e5.npy
 lessons/product.csv
 lessons/colbert_docs.pt
 lessons/splade_docs.npz
+homeworks/rag_cache/legal_docs.json
+homeworks/rag_cache/legal_emb_8760.npy
+homeworks/rag_cache/techqa_emb_4969.npy
