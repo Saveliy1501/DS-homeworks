@@ -97,3 +97,6 @@ homeworks/rag_cache/legal_docs.json
 homeworks/rag_cache/legal_emb_8760.npy
 homeworks/rag_cache/techqa_emb_4969.npy
 homeworks/ast_emb_esc10.npy
+homeworks/ESC-50-master
+homeworks/mixed_esc10
+homeworks/ast_emb_mix_esc10win.npy
