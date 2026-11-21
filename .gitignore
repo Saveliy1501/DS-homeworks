@@ -102,3 +102,16 @@ homeworks/mixed_esc10
 homeworks/ast_emb_mix_esc10win.npy
 homeworks/outputs
 homeworks/data
+lessons/sumo_valid/edges.edg.xml
+lessons/sumo_valid/net_actuated_incoming.net.xml
+lessons/sumo_valid/net_actuated.net.xml
+lessons/sumo_valid/net_delay_based.net.xml
+lessons/sumo_valid/net_static_incoming.net.xml
+lessons/sumo_valid/net_static.net.xml
+lessons/sumo_valid/net.net.xml
+lessons/sumo_valid/nodes.nod.xml
+lessons/sumo_valid/routes.rou.alt.xml
+lessons/sumo_valid/routes.rou.xml
+lessons/sumo_valid/tripinfo.xml
+lessons/sumo_valid/trips.trips.xml
+lessons/lesson_traffic_lite_dqn_2x2.pt
